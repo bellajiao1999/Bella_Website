@@ -1,0 +1,11 @@
+---
+title: "Bella's Profile"
+image: "Bella.jpeg"
+links:
+  - label: Email
+    url: " bellayujun@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+My name is Bella and I’m a recent graduate of McMaster University. I’m now a designer and a private tutor. I teach Mathematics and French to students of all ages and I’m also working on some designs in my free time.If you want to know more about me, please contact my email address: bellayujun@gmail.com
